@@ -2,7 +2,7 @@ import React from "react";
 import Footer from "./Footer";
 import Body from "./Body";
 import Header from './Header';
-import './Styles/KGCstyles.css'
+import './Styles/KGCstyles.css';
 
 const App = () => {
     return (
